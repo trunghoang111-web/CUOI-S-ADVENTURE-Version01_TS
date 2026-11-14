@@ -1,0 +1,121 @@
+[
+  {
+    "original": "imagines/suveror 1.jpg",
+    "publicPath": "assets/nasa-surveyor1.jpg",
+    "filename": "nasa-surveyor1.jpg",
+    "sizeBytes": 69556,
+    "description": "Surveyor 1 on the Moon (1966)"
+  },
+  {
+    "original": "imagines/Apollo 11 LRRR.jpg",
+    "publicPath": "assets/nasa-apollo11-lrrr.jpg",
+    "filename": "nasa-apollo11-lrrr.jpg",
+    "sizeBytes": 130409,
+    "description": "Apollo 11 Laser Ranging Retroreflector close-up"
+  },
+  {
+    "original": "imagines/Screenshot 2026-11-14 101534.png",
+    "publicPath": "assets/nasa-apollo11-easep.png",
+    "filename": "nasa-apollo11-easep.png",
+    "sizeBytes": 581085,
+    "description": "Buzz Aldrin with EASEP, Lunar Module & Flag"
+  },
+  {
+    "original": "imagines/apollo 11 modules.jpg",
+    "publicPath": "assets/nasa-apollo11-modules.jpg",
+    "filename": "nasa-apollo11-modules.jpg",
+    "sizeBytes": 238706,
+    "description": "Apollo 11 Command and Service Modules in lunar orbit"
+  },
+  {
+    "original": "imagines/apollo-15-overview.jpg",
+    "publicPath": "assets/nasa-apollo15-overview.jpg",
+    "filename": "nasa-apollo15-overview.jpg",
+    "sizeBytes": 137385,
+    "description": "Apollo 15 Lunar Rover and Mount Hadley"
+  },
+  {
+    "original": "imagines/rover_apollo17_big.jpg",
+    "publicPath": "assets/nasa-apollo17-rover.jpg",
+    "filename": "nasa-apollo17-rover.jpg",
+    "sizeBytes": 201548,
+    "description": "Apollo 17 Lunar Roving Vehicle"
+  },
+  {
+    "original": "imagines/voyager 1,2.jpg",
+    "publicPath": "assets/nasa-voyager.jpg",
+    "filename": "nasa-voyager.jpg",
+    "sizeBytes": 310443,
+    "description": "Voyager 1 and 2 in deep space with Golden Record"
+  },
+  {
+    "original": "extracted_pdf/img_obj23_1672x941.png",
+    "publicPath": "assets/cuoi-hero-moon.png",
+    "filename": "cuoi-hero-moon.png",
+    "sizeBytes": 3682718,
+    "description": "Chu Cuoi & Chi Hang under banyan tree on Moon looking at Earth"
+  },
+  {
+    "original": "extracted_pdf/img_obj55_1671x941.png",
+    "publicPath": "assets/cuoi-waving.png",
+    "filename": "cuoi-waving.png",
+    "sizeBytes": 3924401,
+    "description": "Chu Cuoi & Chi Hang waving happily to the explorer"
+  },
+  {
+    "original": "extracted_pdf/img_obj28_1207x1303.png",
+    "publicPath": "assets/cuoi-wife-memory.png",
+    "filename": "cuoi-wife-memory.png",
+    "sizeBytes": 3468405,
+    "description": "Chu Cuoi remembering Earth and home"
+  },
+  {
+    "original": "extracted_pdf/img_obj30_1229x1280.png",
+    "publicPath": "assets/cuoi-scene1-surveyor.png",
+    "filename": "cuoi-scene1-surveyor.png",
+    "sizeBytes": 2811076,
+    "description": "Cuoi meeting Surveyor 1 (1966)"
+  },
+  {
+    "original": "extracted_pdf/img_obj33_1203x1307.png",
+    "publicPath": "assets/cuoi-scene2-reflector.png",
+    "filename": "cuoi-scene2-reflector.png",
+    "sizeBytes": 2789749,
+    "description": "Cuoi admiring Apollo 11 Laser Retroreflector"
+  },
+  {
+    "original": "extracted_pdf/img_obj35_1222x1287.png",
+    "publicPath": "assets/cuoi-scene6-voyager.png",
+    "filename": "cuoi-scene6-voyager.png",
+    "sizeBytes": 2792748,
+    "description": "Cuoi waving to Voyager deep space holographic signal"
+  },
+  {
+    "original": "extracted_pdf/img_obj38_1276x1233.png",
+    "publicPath": "assets/cuoi-scene3-retrospective.png",
+    "filename": "cuoi-scene3-retrospective.png",
+    "sizeBytes": 3507444,
+    "description": "Cuoi with Surveyor and Apollo Mirror: 60 years together"
+  },
+  {
+    "original": "extracted_pdf/img_obj40_1277x1231.png",
+    "publicPath": "assets/cuoi-new-explorer.png",
+    "filename": "cuoi-new-explorer.png",
+    "sizeBytes": 3002491,
+    "description": "Cuoi welcoming new lunar explorer"
+  },
+  {
+    "original": "extracted_pdf/img_obj43_1452x1083.png",
+    "publicPath": "assets/cuoi-final-story.png",
+    "filename": "cuoi-final-story.png",
+    "sizeBytes": 3535943,
+    "description": "Cuoi pledging to keep human space exploration memories alive"
+  },
+  {
+    "original": "extracted_pdf/img_obj46_1452x1083.png",
+    "publicPath": "assets/cuoi-final-values.png",
+    "filename": "cuoi-final-values.png",
+    "sizeBytes": 3600402,
+    "description": "Cuoi with space exploration values: Explore, Learn, Help"
+  }
+]
